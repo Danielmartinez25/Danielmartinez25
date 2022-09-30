@@ -1,6 +1,8 @@
-![](https://th.bing.com/th/id/R.9a79dc5ff8bf495b2f273f96b681f1f7?rik=dD4p1fqgG64O0Q&pid=ImgRaw&r=0)
+### Hola 👋, my name is Daniel Martinez
+Full Stack Web Developer 💻
+  
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Danielmartinez25)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/daniel-gustavo-martinez-lozano-296a96210//)  
 
-### Hi My name is Daniel Martinez 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielmartinez25)](https://github.com/anuraghazra/github-readme-stats)
 
