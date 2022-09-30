@@ -1,3 +1,5 @@
+![](https://th.bing.com/th/id/R.9a79dc5ff8bf495b2f273f96b681f1f7?rik=dD4p1fqgG64O0Q&pid=ImgRaw&r=0)
+
 ### Hi My name is Daniel Martinez 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielmartinez25)](https://github.com/anuraghazra/github-readme-stats)
