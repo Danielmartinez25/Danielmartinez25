@@ -13,6 +13,12 @@ Full Stack Web Developer 💻
 
 <h3 align="left">Connect with me:</h3>
 
+<p align="left">
+<a href="https://twitter.com/dani_loz25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dani_loz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/daniel-gustavo-martinez-lozano-296a96210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel gustavo martinez lozano" height="30" width="40" /></a>
+<a href="https://fb.com/gustavo.lozano.988926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="daniel martinez" height="30" width="40" /></a>
+<a href="https://instagram.com/danii_loz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danii_loz25" height="30" width="40" /></a>
+</p>
 
 
 
