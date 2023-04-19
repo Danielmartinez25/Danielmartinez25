@@ -2,7 +2,7 @@
 
 <h3 align="left">Full Stack Web Developer 💻</h3>
 
-<h3 align="left">A passionate frontend developer from Argentina 🌍</h3>
+<h3 align="left">A passionate backend developer from Argentina 🌍</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielmartinez25&show_icons=true&theme=radical)
 
